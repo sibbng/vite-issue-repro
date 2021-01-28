@@ -1,0 +1,29 @@
+{
+  "name": "reactivue-example-vite",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^4.0.6",
+    "@vueuse/head": "^0.1.3",
+    "graphql": "^15.4.0",
+    "pinia": "^2.0.0-alpha.6",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "reactivue": "^0.3.0",
+    "villus": "^1.0.0-rc.10"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.0",
+    "@types/react-dom": "^16.0.0",
+    "@vitejs/plugin-react-refresh": "1.1.1",
+    "@vue/composition-api": "^1.0.0-beta.26",
+    "typescript": "^4.1.3",
+    "vite": "2.0.0-beta.50",
+    "tailwindcss": "^1.9.6"
+  }
+}
